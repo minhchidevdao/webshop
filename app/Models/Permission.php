@@ -13,7 +13,8 @@ class Permission extends ModelsPermission
     protected $fillable = [
         'name',
         'display_name',
-        'group'
+        'group',
+       
 
     ];
 }
